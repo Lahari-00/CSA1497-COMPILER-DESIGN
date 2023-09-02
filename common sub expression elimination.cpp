@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <string.h>
-
 int main() {
     char S1[100], S2[100], S3[100];
     printf("S1=");
@@ -25,5 +24,5 @@ int main() {
     {
         printf("S3=%s\n",S3);
     }
-    return 0;
+Â Â Â Â return 0;
 }
